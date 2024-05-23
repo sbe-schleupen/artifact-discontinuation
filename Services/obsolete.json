@@ -787,6 +787,14 @@
       "is-disruptive": false
     },
     {
+      "artifact-id": "Schleupen.CS.FW.NBP.Sperrprozess.AuftraegeQueryService_3.0",
+      "successor": "FW.NBP.Sperrprozess.AuftraegeQueryService_3.1",
+      "discontinuation-version": "SV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-05-23",
+      "is-disruptive": false
+    },
+    {
       "artifact-id": "Schleupen.CS.FW.NBP.Zahlauftragssteuerungen.ZahlauftragssteuerungEntityService_3.4",
       "successor": null,
       "discontinuation-version": "FV25",
