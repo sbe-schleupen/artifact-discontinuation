@@ -1355,6 +1355,14 @@
       "is-disruptive": false
     },
     {
+      "artifact-id": "Schleupen.CS.PI.AIF.Calendars.HolidayQueryService_3.1",
+      "successor": null,
+      "discontinuation-version": "FV24",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-01-01",
+      "is-disruptive": false
+    },
+    {
       "artifact-id": "Schleupen.CS.PI.AIF.Nummernkreise.NummernkreisActivityService_3.2",
       "successor": null,
       "discontinuation-version": "FV25",
