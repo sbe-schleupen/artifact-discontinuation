@@ -157,25 +157,25 @@
     {
       "artifact-id": "Schleupen.CS.AP.MPM.UGP.ProzessmeldungAblehnungAnfrageNachStornierungEntityService_3.0",
       "successor": null,
-      "discontinuation-version": "FV25",
+      "discontinuation-version": "SV25",
       "discontinuation-date": null,
-      "obsolete-since": "2024-05-16",
+      "obsolete-since": "2024-05-27",
       "is-disruptive": false
     },
     {
       "artifact-id": "Schleupen.CS.AP.MPM.UGP.ProzessmeldungAnfrageNachStornierungAnreichernActivityService_3.0",
       "successor": null,
-      "discontinuation-version": "FV25",
+      "discontinuation-version": "SV25",
       "discontinuation-date": null,
-      "obsolete-since": "2024-05-16",
+      "obsolete-since": "2024-05-27",
       "is-disruptive": false
     },
     {
       "artifact-id": "Schleupen.CS.AP.MPM.UGP.ProzessmeldungAnfrageNachStornierungEntityService_3.0",
       "successor": null,
-      "discontinuation-version": "FV25",
+      "discontinuation-version": "SV25",
       "discontinuation-date": null,
-      "obsolete-since": "2024-05-16",
+      "obsolete-since": "2024-05-27",
       "is-disruptive": false
     },
     {
@@ -189,9 +189,9 @@
     {
       "artifact-id": "Schleupen.CS.AP.MPM.UGP.ProzessmeldungBestaetigungAnfrageNachStornierungEntityService_3.0",
       "successor": null,
-      "discontinuation-version": "FV25",
+      "discontinuation-version": "SV25",
       "discontinuation-date": null,
-      "obsolete-since": "2024-05-16",
+      "obsolete-since": "2024-05-27",
       "is-disruptive": false
     },
     {
@@ -1155,6 +1155,14 @@
       "is-disruptive": false
     },
     {
+      "artifact-id": "Schleupen.CS.MDM.MWM.ALS.Ableseanforderungen.AbleseanforderungStatusSetzenActivityService_3.1",
+      "successor": "Schleupen.CS.MDM.MWM.ALS.Ableseanforderungen.AbleseanforderungStatusSetzenActivityService_3.2",
+      "discontinuation-version": "SV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-05-27",
+      "is-disruptive": false
+    },
+    {
       "artifact-id": "Schleupen.CS.MDM.MWM.ALS.Ableseanforderungen.EntityService_3.1",
       "successor": null,
       "discontinuation-version": "FV25",
@@ -1516,6 +1524,86 @@
     },
     {
       "artifact-id": "Schleupen.CS.wgp.ugp.ans.AnfrageNachStornierungContrlEmpfangenEventService_3.0",
+      "successor": null,
+      "discontinuation-version": "SV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-05-24",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.wgp.ugp.ans.AnfrageNachStornierungErstellenEventService_3.0",
+      "successor": null,
+      "discontinuation-version": "SV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-05-24",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.wgp.ugp.ans.AnfrageNachStornierungErstelltEventService_3.0",
+      "successor": null,
+      "discontinuation-version": "SV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-05-24",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.wgp.ugp.ans.AnfrageNachStornierungVersendetEventService_3.0",
+      "successor": null,
+      "discontinuation-version": "SV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-05-24",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.wgp.ugp.ans.AnfrageNachStornierungVerworfenEventService_3.0",
+      "successor": null,
+      "discontinuation-version": "SV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-05-24",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.wgp.ugp.ans.BestaetigungAnfrageNachStornierungContrlEmpfangenEventService_3.0",
+      "successor": null,
+      "discontinuation-version": "SV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-05-24",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.wgp.ugp.ans.BestaetigungAnfrageNachStornierungEmpfangenEventService_3.0",
+      "successor": null,
+      "discontinuation-version": "SV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-05-24",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.wgp.ugp.ans.BestaetigungAnfrageNachStornierungErstellenEventService_3.0",
+      "successor": null,
+      "discontinuation-version": "SV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-05-24",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.wgp.ugp.ans.BestaetigungAnfrageNachStornierungErstelltEventService_3.0",
+      "successor": null,
+      "discontinuation-version": "SV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-05-24",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.wgp.ugp.ans.BestaetigungAnfrageNachStornierungVersendetEventService_3.0",
+      "successor": null,
+      "discontinuation-version": "SV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-05-24",
+      "is-disruptive": false
+    },
+    {
+      "artifact-id": "Schleupen.CS.wgp.ugp.ans.BestaetigungAnfrageNachStornierungVerworfenEventService_3.0",
       "successor": null,
       "discontinuation-version": "SV25",
       "discontinuation-date": null,
