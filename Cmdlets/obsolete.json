@@ -1,0 +1,14 @@
+{
+  "document-type": "schleupen.cs.artifactdiscontinuation.cmdlets.obsolete",
+  "format-version": "schleupen.cs.artifactdiscontinuation.cmdlets.obsolete_1.0",
+  "artifacts": [
+    {
+      "command": "New-ScheduledService",
+      "successor": "New-ScheduledService2",
+      "discontinuation-version": "FV25",
+      "discontinuation-date": null,
+      "obsolete-since": "2024-05-28",
+      "is-disruptive": false
+    }
+  ]
+}
