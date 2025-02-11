@@ -1,5 +1,14 @@
 {
-  "document-type": "schleupen.artifactlifecycle.packages.removed",
-  "format-version": "schleupen.artifactlifecycle.packages.removed_1.0",
-  "artifacts": []
+    "document-type": "schleupen.artifactlifecycle.packages.removed",
+    "format-version": "schleupen.artifactlifecycle.packages.removed_1.0",
+    "artifacts": [
+        {
+            "package-id": "Schleupen.CS.PI.Framework.Core",
+            "package-version": "[3.42.0,3.43.0)",
+            "successor": "Schleupen.CS.PI.Framework.Core",
+            "successor-version": "[3.43,)",
+            "discontinuation-version": "HV24",
+            "is-disruptive": false
+        }
+    ]
 }
